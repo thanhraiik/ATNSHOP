@@ -7,7 +7,7 @@ const path = require('path');
 const multer = require('multer');
 const app = express();
 const uri =
-  "mongodb+srv://HuynhVanngoan:Huynhngoan2002@cluster0.lxxvz4e.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://win:998121@cluster2.n07qpw3.mongodb.net/?retryWrites=true&w=majority";
 const mongo = require('mongodb');
 const {
     MongoClient
