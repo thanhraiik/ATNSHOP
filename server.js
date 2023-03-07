@@ -6,7 +6,7 @@ const path = require('path');
 const multer = require('multer');
 const handlebars = require('handlebars');
 const uri =
-  "mongodb+srv://raiik:998121@cluster03.9214qal.mongodb.net/?retryWrites=true&w=majority";
+  "mongodb+srv://win:998121@cluster20.gabecoz.mongodb.net/?retryWrites=true&w=majority";
 const mongo = require('mongodb');
 
 // declare bodyparser
